@@ -8,10 +8,19 @@
 对于  的数据，输入文件不超过 10MB。
 
 样例
+
+```txt
 input
 EOJ2017!
+
+
+
 output
 4
+
+```
+
+
 
 # CODE
 ```C++
@@ -34,6 +43,7 @@ int main(){
 }
 ```
 
+# RES
 ```txt
  ./solution
 hafsaiowefhiao41894196
